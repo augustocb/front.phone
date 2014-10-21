@@ -23,7 +23,7 @@ There's also an Angular.js filter: `vtex-phone-filter.min.js`. (The bundle does 
 
 ## Countries
 
-We currently cover [these countries](src/countries).
+We currently cover [these countries](tree/master/src/script/countries).
 
 Didn't find your own? Feel free to [contribute](#contributing)!
 
